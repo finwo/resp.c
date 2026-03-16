@@ -1,1 +1,1 @@
-SRC+=__DIRNAME/src/resp.c
+SRC+={{module.dirname}}/src/resp.c
